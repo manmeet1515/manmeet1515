@@ -7,7 +7,7 @@ Cloud Engineer
 I am pursuing a second career in Cloud and DevOps !
 
 * 🌍  I'm based in Perth
-* 🖥️  See my portfolio at [MyPortfolio](http://singhincloud.net)
+* 🖥️  See my portfolio at [MyProtfolio](http://singhincloud.net)
 * ✉️  You can contact me at [manmeet1515@gmail.com](mailto:manmeet1515@gmail.com)
 * 🧠  I'm learning AWS
 
@@ -24,7 +24,7 @@ I am pursuing a second career in Cloud and DevOps !
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/manmeet1515" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@manmeet1515" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/manmeet1515" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/manmeet-singh-5553b269" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@manmeet1515" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
