@@ -9,7 +9,7 @@ I am pursuing a second career in Cloud and DevOps !
 * 🌍  I'm based in Perth
 * 🖥️  See my portfolio at [MyPortfolio](http://singhincloud.net)
 * ✉️  You can contact me at [manmeet1515@gmail.com](mailto:manmeet1515@gmail.com)
-* 🧠  I'm learning AWS
+* 🧠  I'm learning AWS and Terraform.
 
 ### Skills
 
