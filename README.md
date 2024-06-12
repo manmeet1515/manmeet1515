@@ -29,9 +29,10 @@ I am pursuing a second career in Cloud and DevOps !
 
 # My AWS Badge
 
-[![AWS Badge](https://images.credly.com/size/200x200/images/0a4623b3-921e-4e3c-8679-fb6dffc2d99f/badge_image.png)](https://www.credly.com/badges/0a4623b3-921e-4e3c-8679-fb6dffc2d99f/[public_url](https://www.credly.com/badges/0a4623b3-921e-4e3c-8679-fb6dffc2d99f/public_url))
+[![AWS Badge](https://images.credly.com/size/340x340/images/0a4623b3-921e-4e3c-8679-fb6dffc2d99f/badge_image.png)](https://www.credly.com/badges/0a4623b3-921e-4e3c-8679-fb6dffc2d99f/[public_url](https://www.credly.com/badges/0a4623b3-921e-4e3c-8679-fb6dffc2d99f/public_url))
 
 Click the badge to view it on Credly.
+
 
 
 <b>My GitHub Stats</b>
