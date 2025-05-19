@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud Engineer
 --------------
 
-I am a passionate self-learner , pursuing a second career in Cloud and DevOps whilst working a full-time job in Systems Administration. With over a decade of experience across various industries, I bring a diverse skill set. I am AWS Solutions Architect Associate and Hashicorp Terraform Associate certified , and Learning & Implementing Terraform, Docker & Kubernetes.
+I am a passionate self-learner , pursuing a second career in Cloud and DevOps whilst working a full-time job in Systems Administration. With over a decade of experience across various industries, I bring a diverse skill set. I am AWS Solutions Architect Associate and Hashicorp Terraform Associate certified , and Learning & Implementing AWS and Terraform.
 
 * 🌍  I'm based in Perth
 * 🖥️  See my portfolio at [MyPortfolio](https://singhincloud.net)
